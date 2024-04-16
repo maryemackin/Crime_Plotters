@@ -8,7 +8,7 @@
 250,Counterfeiting/Forgery,Counterfeiting/Forgery,Property,FALSE
 290,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,Property,FALSE
 35A,Drug/Narcotic Offenses,Drug/Narcotic Offenses,Society,FALSE
-35B,Drug Equipment Violations,,Society,FALSE
+35B,Drug Equipment Violations,Drug Equipment Violations,Society,FALSE
 270,Embezzlement,Embezzlement,Property,FALSE
 210,Extortion/Blackmail,Extortion/Blackmail,Property,FALSE
 26A,Fraud Offenses,False Pretenses/Swindle/Confidence Game,Property,FALSE
