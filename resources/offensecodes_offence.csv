@@ -1,0 +1,58 @@
+﻿OFFENSE_CODE,OFFENSE_MAIN_CAT,OFFENSE_SUB_CAT,CRIME_AGAINST,VIOLENT_CRIME
+200,Arson,Arson,Property,FALSE
+13A,Assault Offenses,Aggravated Assault,Person,TRUE
+13B,Assault Offenses,Simple  Assault,Person,TRUE
+13C,Assault Offenses,Intimidation,Person,TRUE
+510,Bribery,Bribery,Property,FALSE
+220,Burglary/Breaking & Entering,Burglary/Breaking & Entering,Property,FALSE
+250,Counterfeiting/Forgery,Counterfeiting/Forgery,Property,FALSE
+290,Destruction/Damage/Vandalism of Property,Destruction/Damage/Vandalism of Property,Property,FALSE
+35A,Drug/Narcotic Offenses,Drug/Narcotic Offenses,Society,FALSE
+35B,Drug Equipment Violations,Drug Equipment Violations,Society,FALSE
+270,Embezzlement,Embezzlement,Property,FALSE
+210,Extortion/Blackmail,Extortion/Blackmail,Property,FALSE
+26A,Fraud Offenses,False Pretenses/Swindle/Confidence Game,Property,FALSE
+26B,Fraud Offenses,Credit Card/Automated Teller Machine Fraud,Property,FALSE
+26C,Fraud Offenses,Impersonation,Property,FALSE
+26D,Fraud Offenses,Welfare Fraud,Property,FALSE
+26E,Fraud Offenses,Wire Fraud,Property,FALSE
+39A,Gambling Offenses,Betting/Wagering,Society,FALSE
+39B,Gambling Offenses,Operating/Promoting/Assisting Gambling,Society,FALSE
+39C,Gambling Offenses,Gambling Equipment Violations,Society,FALSE
+39D,Gambling Offenses,Sports Tampering,Society,FALSE
+09A,Homicide Offenses,Murder & Nonnegligent Manslaughter,Person,TRUE
+09B,Homicide Offenses,Negligent Manslaughter,Person,TRUE
+09C,Homicide Offenses,Justifiable Homicide,Person,TRUE
+100,Kidnapping/Abduction,Kidnapping/Abduction,Person,TRUE
+23A,Larceny/Theft Offenses,Pocket-picking,Property,FALSE
+23B,Larceny/Theft Offenses,Purse-snatching,Property,FALSE
+23C,Larceny/Theft Offenses,Shoplifting,Property,FALSE
+23D,Larceny/Theft Offenses,Theft From Building,Property,FALSE
+23E,Larceny/Theft Offenses,Theft From Coin-Operated Machine or Device,Property,FALSE
+23F,Larceny/Theft Offenses,Theft from Motor Vehicle,Property,FALSE
+23G,Larceny/Theft Offenses,Theft of Motor Vehicle Parts or Accessories,Property,FALSE
+23H,Larceny/Theft Offenses,All Other Larceny,Property,FALSE
+240,Motor Vehicle Theft,Motor Vehicle Theft,Property,FALSE
+370,Pornography/Obscene Material,Pornography/Obscene Material,Society,FALSE
+40A,Prostitution Offenses,Prostitution,Society,FALSE
+40B,Prostitution Offenses,Assisting or Promoting Prostitution,Society,FALSE
+120,Robbery,Robbery,Property,FALSE
+11A,"Sex Offenses, Forcible",Forcible Rape,Person,TRUE
+11B,"Sex Offenses, Forcible",Forcible Sodomy,Person,TRUE
+11C,"Sex Offenses, Forcible",Sexual Assault With An Object,Person,TRUE
+11D,"Sex Offenses, Forcible",Forcible Fondling,Person,TRUE
+36A,"Sex Offenses, Nonforcible",Incest,Person,TRUE
+36B,"Sex Offenses, Nonforcible",Statutory Rape,Person,TRUE
+280,Stolen Property Offenses,Stolen Property Offenses,Property,FALSE
+520,Weapon Law Violations,Weapon Law Violations,Society,FALSE
+90A,Bad Checks,Bad Checks,Property,FALSE
+90B,Curfew/Loitering/Vagrency Violations,Curfew/Loitering/Vagrency Violations,Society,FALSE
+90C,Disorderly Conduct,Disorderly Conduct,Society,FALSE
+90D,Driving Under the Influence,Driving Under the Influence,Society,FALSE
+90E,Drunkenness,Drunkenness,Society,FALSE
+90F,"Family Offenses, Non Violent","Family Offenses, Non Violent",Society,FALSE
+90G,Liquor Law Violations,Liquor Law Violations,Society,FALSE
+90H,Peeping Tom,Peeping Tom,Society,FALSE
+90I,Runaway,Runaway,Society,FALSE
+90J,Trespass of Real Property,Trespass of Real Property,Society,FALSE
+90Z,All Other Offenses,All Other Offenses,Society,FALSE

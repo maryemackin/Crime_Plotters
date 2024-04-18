@@ -1,0 +1,859 @@
+AGENCY_NAME,data_year,Crimes Against Persons,Crimes Against Society,Crimes Against Property
+Alameda Police Department,2017,236,457,231
+Alameda Police Department,2018,257,445,211
+Alameda Police Department,2019,300,445,223
+Alameda Police Department,2020,266,217,178
+Alameda Police Department,2021,27,55,30
+Alameda Police Department,2022,238,268,299
+Albany Police Department,2017,27,169,177
+Albany Police Department,2018,51,161,182
+Albany Police Department,2019,50,107,126
+Albany Police Department,2020,17,38,44
+Albany Police Department,2021,11,37,24
+Albany Police Department,2022,29,54,60
+Alhambra Police Department,2017,215,384,359
+Alhambra Police Department,2018,255,411,331
+Alhambra Police Department,2019,249,436,441
+Alhambra Police Department,2020,220,372,215
+Alhambra Police Department,2021,254,425,343
+Alhambra Police Department,2022,262,361,384
+Anaheim Police Department,2017,1792,3263,1795
+Anaheim Police Department,2018,1755,4206,1678
+Anaheim Police Department,2019,1664,4303,1500
+Anaheim Police Department,2020,1483,2909,1333
+Anaheim Police Department,2021,310,631,380
+Anaheim Police Department,2022,1301,2856,1599
+Antioch Police Department,2017,860,594,1116
+Antioch Police Department,2018,791,624,876
+Antioch Police Department,2019,728,458,800
+Antioch Police Department,2020,548,476,764
+Antioch Police Department,2021,21,11,38
+Antioch Police Department,2022,345,148,327
+Arcadia Police Department,2017,115,385,437
+Arcadia Police Department,2018,101,388,363
+Arcadia Police Department,2019,115,360,331
+Arcadia Police Department,2020,100,141,145
+Arcadia Police Department,2021,71,167,200
+Arcadia Police Department,2022,93,147,215
+Arroyo Grande Police Department,2017,83,387,88
+Arroyo Grande Police Department,2018,90,275,94
+Arroyo Grande Police Department,2019,66,268,73
+Arroyo Grande Police Department,2020,51,222,53
+Arroyo Grande Police Department,2021,48,65,26
+Arroyo Grande Police Department,2022,39,105,42
+Atascadero Police Department,2017,124,392,101
+Atascadero Police Department,2018,112,485,102
+Atascadero Police Department,2019,93,441,98
+Atascadero Police Department,2020,94,481,74
+Atascadero Police Department,2021,37,284,38
+Atascadero Police Department,2022,68,229,50
+Auburn Police Department,2017,80,309,54
+Auburn Police Department,2018,88,240,48
+Auburn Police Department,2019,81,201,53
+Auburn Police Department,2020,46,140,24
+Auburn Police Department,2021,3,23,1
+Auburn Police Department,2022,96,169,57
+Baldwin Park Police Department,2017,267,581,323
+Baldwin Park Police Department,2018,270,620,334
+Baldwin Park Police Department,2019,202,519,267
+Baldwin Park Police Department,2020,182,246,160
+Baldwin Park Police Department,2021,127,113,150
+Baldwin Park Police Department,2022,186,194,222
+Beaumont Police Department,2017,166,343,187
+Beaumont Police Department,2018,128,316,151
+Beaumont Police Department,2019,106,240,140
+Beaumont Police Department,2020,100,227,114
+Beaumont Police Department,2021,113,217,159
+Beaumont Police Department,2022,100,149,140
+Belmont Police Department,2017,39,111,34
+Belmont Police Department,2018,41,109,34
+Belmont Police Department,2019,34,122,38
+Belmont Police Department,2020,35,123,48
+Belmont Police Department,2021,9,57,29
+Belmont Police Department,2022,31,118,66
+Brea Police Department,2017,154,704,419
+Brea Police Department,2018,117,806,390
+Brea Police Department,2019,117,656,456
+Brea Police Department,2020,80,560,302
+Brea Police Department,2021,91,326,299
+Brea Police Department,2022,84,231,370
+Burbank Police Department,2017,411,1468,782
+Burbank Police Department,2018,428,1607,781
+Burbank Police Department,2019,441,1498,779
+Burbank Police Department,2020,317,1193,770
+Burbank Police Department,2021,29,65,88
+Burbank Police Department,2022,344,1048,1255
+CA Highway Patrol - Sacramento,2017,26,2112,70
+CA Highway Patrol - Sacramento,2018,56,2735,60
+CA Highway Patrol - Sacramento,2019,121,3515,208
+CA Highway Patrol - Sacramento,2020,116,2217,158
+CA Highway Patrol - Sacramento,2021,0,26,0
+CA Highway Patrol - Sacramento,2022,0,842,8
+CSU Long Beach Police Department,2017,10,21,17
+CSU Long Beach Police Department,2018,8,23,6
+CSU Long Beach Police Department,2019,6,26,8
+CSU Long Beach Police Department,2020,1,5,10
+CSU Long Beach Police Department,2021,2,5,5
+CSU Long Beach Police Department,2022,4,14,25
+CSU Monterey Bay Police Department,2017,7,31,12
+CSU Monterey Bay Police Department,2018,15,20,8
+CSU Monterey Bay Police Department,2019,11,32,9
+CSU Monterey Bay Police Department,2020,12,35,13
+CSU Monterey Bay Police Department,2021,3,8,14
+CSU Monterey Bay Police Department,2022,8,17,10
+CSU San Marcos Police Department,2017,9,47,5
+CSU San Marcos Police Department,2018,3,38,5
+CSU San Marcos Police Department,2019,3,61,2
+CSU San Marcos Police Department,2020,2,40,5
+CSU San Marcos Police Department,2021,1,8,5
+CSU San Marcos Police Department,2022,2,25,6
+Cal Poly San Luis Obispo Police Department,2017,5,113,8
+Cal Poly San Luis Obispo Police Department,2018,10,107,4
+Cal Poly San Luis Obispo Police Department,2019,8,84,7
+Cal Poly San Luis Obispo Police Department,2020,3,42,7
+Cal Poly San Luis Obispo Police Department,2021,1,19,2
+Cal Poly San Luis Obispo Police Department,2022,1,14,4
+Calaveras County Sheriff's Department,2017,363,197,111
+Calaveras County Sheriff's Department,2018,265,161,102
+Calaveras County Sheriff's Department,2019,240,152,88
+Calaveras County Sheriff's Department,2020,224,171,74
+Calaveras County Sheriff's Department,2021,20,8,6
+Calaveras County Sheriff's Department,2022,204,104,101
+Carlsbad Police Department,2017,375,943,358
+Carlsbad Police Department,2018,305,977,393
+Carlsbad Police Department,2019,270,915,378
+Carlsbad Police Department,2020,309,1096,278
+Carlsbad Police Department,2021,115,2049,187
+Carlsbad Police Department,2022,273,1683,379
+Carmel Police Department,2017,11,95,20
+Carmel Police Department,2018,20,114,9
+Carmel Police Department,2019,26,113,24
+Carmel Police Department,2020,19,84,29
+Carmel Police Department,2021,12,56,30
+Carmel Police Department,2022,9,73,30
+Chino Police Department,2017,436,1259,527
+Chino Police Department,2018,429,1073,637
+Chino Police Department,2019,487,1173,804
+Chino Police Department,2020,526,1138,633
+Chino Police Department,2021,399,745,558
+Chino Police Department,2022,434,910,828
+Chula Vista Police Department,2017,964,1666,938
+Chula Vista Police Department,2018,995,1894,739
+Chula Vista Police Department,2019,951,1786,734
+Chula Vista Police Department,2020,815,1212,638
+Chula Vista Police Department,2021,338,967,318
+Chula Vista Police Department,2022,812,969,531
+Clayton Police Department,2017,13,43,21
+Clayton Police Department,2018,24,63,34
+Clayton Police Department,2019,4,57,33
+Clayton Police Department,2020,11,20,13
+Clayton Police Department,2021,1,9,0
+Clayton Police Department,2022,5,5,6
+Colton Police Department,2017,233,650,284
+Colton Police Department,2018,207,801,277
+Colton Police Department,2019,194,663,235
+Colton Police Department,2020,181,538,228
+Colton Police Department,2021,125,320,205
+Colton Police Department,2022,137,274,146
+Concord Police Department,2017,552,1317,617
+Concord Police Department,2018,517,1138,516
+Concord Police Department,2019,521,1113,571
+Concord Police Department,2020,399,649,366
+Concord Police Department,2021,341,594,374
+Concord Police Department,2022,460,790,386
+Corcoran Police Department,2017,107,253,62
+Corcoran Police Department,2018,113,231,80
+Corcoran Police Department,2019,95,270,53
+Corcoran Police Department,2020,99,169,80
+Corcoran Police Department,2021,31,63,9
+Corcoran Police Department,2022,82,110,69
+Corning Police Department,2017,34,197,66
+Corning Police Department,2018,45,301,41
+Corning Police Department,2019,63,379,81
+Corning Police Department,2020,40,230,31
+Corning Police Department,2021,7,69,21
+Corning Police Department,2022,30,126,59
+Coronado Police Department,2017,43,157,71
+Coronado Police Department,2018,45,176,56
+Coronado Police Department,2019,49,207,56
+Coronado Police Department,2020,39,164,63
+Coronado Police Department,2021,19,73,23
+Coronado Police Department,2022,43,237,98
+Covina Police Department,2017,247,1072,454
+Covina Police Department,2018,263,1378,418
+Covina Police Department,2019,289,1286,457
+Covina Police Department,2020,205,1086,380
+Covina Police Department,2021,103,523,193
+Covina Police Department,2022,218,1052,348
+Culver City Police Department,2017,171,439,879
+Culver City Police Department,2018,174,588,736
+Culver City Police Department,2019,183,720,915
+Culver City Police Department,2020,141,343,545
+Culver City Police Department,2021,120,187,314
+Culver City Police Department,2022,159,353,563
+Davis Police Department,2017,131,453,145
+Davis Police Department,2018,99,378,134
+Davis Police Department,2019,93,388,112
+Davis Police Department,2020,126,206,131
+Davis Police Department,2021,19,28,14
+Davis Police Department,2022,110,211,130
+Del Rey Oaks Police Department,2017,1,4,5
+Del Rey Oaks Police Department,2018,5,6,13
+Del Rey Oaks Police Department,2019,3,7,11
+Del Rey Oaks Police Department,2020,6,6,7
+Del Rey Oaks Police Department,2021,1,5,8
+Del Rey Oaks Police Department,2022,2,3,15
+Delano Police Department,2017,226,279,211
+Delano Police Department,2018,228,325,193
+Delano Police Department,2019,237,307,162
+Delano Police Department,2020,132,230,92
+Delano Police Department,2021,13,15,8
+Delano Police Department,2022,114,166,120
+Dinuba Police Department,2017,210,522,162
+Dinuba Police Department,2018,222,357,190
+Dinuba Police Department,2019,244,316,143
+Dinuba Police Department,2020,188,223,91
+Dinuba Police Department,2021,175,169,64
+Dinuba Police Department,2022,189,254,135
+Dixon Police Department,2017,101,134,62
+Dixon Police Department,2018,101,180,82
+Dixon Police Department,2019,71,153,59
+Dixon Police Department,2020,96,196,107
+Dixon Police Department,2021,75,156,84
+Dixon Police Department,2022,103,115,82
+El Cajon Police Department,2017,490,2093,596
+El Cajon Police Department,2018,577,2139,656
+El Cajon Police Department,2019,552,2164,721
+El Cajon Police Department,2020,621,2272,580
+El Cajon Police Department,2021,203,1159,247
+El Cajon Police Department,2022,489,1247,458
+El Cerrito Police Department,2017,110,269,308
+El Cerrito Police Department,2018,94,242,266
+El Cerrito Police Department,2019,71,164,121
+El Cerrito Police Department,2020,51,83,100
+El Cerrito Police Department,2021,27,29,53
+El Cerrito Police Department,2022,43,32,83
+El Dorado County Sheriff's Department,2017,718,1084,488
+El Dorado County Sheriff's Department,2018,657,864,422
+El Dorado County Sheriff's Department,2019,591,736,378
+El Dorado County Sheriff's Department,2020,643,926,382
+El Dorado County Sheriff's Department,2021,358,398,211
+El Dorado County Sheriff's Department,2022,504,501,275
+El Monte Police Department,2017,568,1118,650
+El Monte Police Department,2018,572,1248,649
+El Monte Police Department,2019,608,1251,623
+El Monte Police Department,2020,523,561,461
+El Monte Police Department,2021,352,297,314
+El Monte Police Department,2022,398,512,423
+El Segundo Police Department,2017,64,231,217
+El Segundo Police Department,2018,82,266,163
+El Segundo Police Department,2019,57,262,164
+El Segundo Police Department,2020,68,194,276
+El Segundo Police Department,2021,45,135,179
+El Segundo Police Department,2022,51,189,187
+Elk Grove Police Department,2017,374,544,399
+Elk Grove Police Department,2018,395,559,387
+Elk Grove Police Department,2019,431,633,438
+Elk Grove Police Department,2020,332,381,270
+Elk Grove Police Department,2021,55,31,37
+Elk Grove Police Department,2022,352,347,349
+Emeryville Police Department,2017,110,126,330
+Emeryville Police Department,2018,110,187,360
+Emeryville Police Department,2019,120,171,299
+Emeryville Police Department,2020,79,88,188
+Emeryville Police Department,2021,46,56,194
+Emeryville Police Department,2022,80,63,256
+Escondido Police Department,2017,966,2308,1019
+Escondido Police Department,2018,820,2009,917
+Escondido Police Department,2019,799,2146,767
+Escondido Police Department,2020,846,2308,775
+Escondido Police Department,2021,522,1705,450
+Escondido Police Department,2022,766,2210,715
+Ferndale Police Department,2017,5,15,4
+Ferndale Police Department,2018,4,11,5
+Ferndale Police Department,2019,4,24,2
+Ferndale Police Department,2020,8,28,3
+Ferndale Police Department,2021,0,2,1
+Ferndale Police Department,2022,5,29,5
+Fontana Police Department,2017,1083,2669,1172
+Fontana Police Department,2018,1069,2645,1080
+Fontana Police Department,2019,1063,2845,1153
+Fontana Police Department,2020,912,1580,1034
+Fontana Police Department,2021,250,504,460
+Fontana Police Department,2022,866,1570,1435
+Fort Bragg Police Department,2017,126,237,92
+Fort Bragg Police Department,2018,104,261,86
+Fort Bragg Police Department,2019,76,154,76
+Fort Bragg Police Department,2020,81,167,56
+Fort Bragg Police Department,2021,44,109,55
+Fort Bragg Police Department,2022,64,257,79
+Fortuna Police Department,2017,74,319,101
+Fortuna Police Department,2018,88,326,69
+Fortuna Police Department,2019,74,241,80
+Fortuna Police Department,2020,103,240,78
+Fortuna Police Department,2021,11,54,7
+Fortuna Police Department,2022,59,234,73
+Foster City Police Department,2017,52,92,43
+Foster City Police Department,2018,72,122,65
+Foster City Police Department,2019,60,136,45
+Foster City Police Department,2020,61,83,31
+Foster City Police Department,2021,12,26,9
+Foster City Police Department,2022,60,45,31
+Fresno Police Department,2017,3816,4242,3443
+Fresno Police Department,2018,4145,5438,3610
+Fresno Police Department,2019,3066,3616,2396
+Fresno Police Department,2020,3515,2919,2956
+Fresno Police Department,2021,2376,1685,2321
+Fresno Police Department,2022,2815,1888,2715
+Garden Grove Police Department,2017,648,2548,1212
+Garden Grove Police Department,2018,553,2613,952
+Garden Grove Police Department,2019,590,2703,817
+Garden Grove Police Department,2020,565,2255,879
+Garden Grove Police Department,2021,25,58,41
+Garden Grove Police Department,2022,326,838,468
+Gardena Police Department,2017,222,620,479
+Gardena Police Department,2018,236,578,561
+Gardena Police Department,2019,236,601,420
+Gardena Police Department,2020,184,383,438
+Gardena Police Department,2021,137,356,392
+Gardena Police Department,2022,121,335,396
+Glenn County Sheriff's Department,2017,107,148,81
+Glenn County Sheriff's Department,2018,142,341,124
+Glenn County Sheriff's Department,2019,169,351,100
+Glenn County Sheriff's Department,2020,108,226,73
+Glenn County Sheriff's Department,2021,26,95,29
+Glenn County Sheriff's Department,2022,30,66,20
+Gonzales Police Department,2017,52,130,19
+Gonzales Police Department,2018,34,132,36
+Gonzales Police Department,2019,50,145,34
+Gonzales Police Department,2020,37,102,27
+Gonzales Police Department,2021,30,50,17
+Gonzales Police Department,2022,26,85,24
+Grass Valley Police Department,2017,129,379,214
+Grass Valley Police Department,2018,155,498,146
+Grass Valley Police Department,2019,215,496,152
+Grass Valley Police Department,2020,155,356,130
+Grass Valley Police Department,2021,11,42,14
+Grass Valley Police Department,2022,117,271,105
+Greenfield Police Department,2017,130,227,69
+Greenfield Police Department,2018,166,390,91
+Greenfield Police Department,2019,134,319,48
+Greenfield Police Department,2020,101,194,61
+Greenfield Police Department,2021,75,173,61
+Greenfield Police Department,2022,115,191,73
+Grover Beach Police Department,2017,57,340,53
+Grover Beach Police Department,2018,35,198,52
+Grover Beach Police Department,2019,31,219,40
+Grover Beach Police Department,2020,41,171,37
+Grover Beach Police Department,2021,27,215,52
+Grover Beach Police Department,2022,34,151,36
+Gustine Police Department,2017,45,66,13
+Gustine Police Department,2018,39,43,16
+Gustine Police Department,2019,36,40,18
+Gustine Police Department,2020,38,54,23
+Gustine Police Department,2021,12,10,4
+Gustine Police Department,2022,18,65,8
+Hanford Police Department,2017,338,689,316
+Hanford Police Department,2018,405,710,395
+Hanford Police Department,2019,375,855,411
+Hanford Police Department,2020,330,804,311
+Hanford Police Department,2021,100,309,114
+Hanford Police Department,2022,296,714,287
+Healdsburg Police Department,2017,56,254,62
+Healdsburg Police Department,2018,42,254,62
+Healdsburg Police Department,2019,51,217,60
+Healdsburg Police Department,2020,51,144,48
+Healdsburg Police Department,2021,17,51,21
+Healdsburg Police Department,2022,60,174,67
+Hemet Police Department,2017,553,1181,511
+Hemet Police Department,2018,536,1361,405
+Hemet Police Department,2019,418,1175,417
+Hemet Police Department,2020,263,809,395
+Hemet Police Department,2021,91,384,118
+Hemet Police Department,2022,197,855,287
+Hermosa Beach Police Department,2017,52,458,78
+Hermosa Beach Police Department,2018,74,354,69
+Hermosa Beach Police Department,2019,52,265,69
+Hermosa Beach Police Department,2020,42,179,66
+Hermosa Beach Police Department,2021,37,346,106
+Hermosa Beach Police Department,2022,40,381,176
+Hillsborough Police Department,2017,5,34,6
+Hillsborough Police Department,2018,11,50,6
+Hillsborough Police Department,2019,8,62,6
+Hillsborough Police Department,2020,3,18,4
+Hillsborough Police Department,2021,1,9,3
+Hillsborough Police Department,2022,6,10,5
+Hollister Police Department,2017,269,459,164
+Hollister Police Department,2018,259,604,135
+Hollister Police Department,2019,259,374,155
+Hollister Police Department,2020,219,328,103
+Hollister Police Department,2021,144,289,89
+Hollister Police Department,2022,154,283,93
+Irwindale Police Department,2017,28,75,35
+Irwindale Police Department,2018,29,80,32
+Irwindale Police Department,2019,12,87,34
+Irwindale Police Department,2020,15,29,19
+Irwindale Police Department,2021,6,59,56
+Irwindale Police Department,2022,13,88,45
+Kings County Sheriff's Department,2017,153,852,178
+Kings County Sheriff's Department,2018,200,766,182
+Kings County Sheriff's Department,2019,189,934,218
+Kings County Sheriff's Department,2020,159,801,177
+Kings County Sheriff's Department,2021,14,80,30
+Kings County Sheriff's Department,2022,111,525,124
+La Habra Police Department,2017,207,927,282
+La Habra Police Department,2018,202,854,230
+La Habra Police Department,2019,253,968,237
+La Habra Police Department,2020,209,806,241
+La Habra Police Department,2021,74,352,155
+La Habra Police Department,2022,240,838,315
+La Mesa Police Department,2017,352,1329,469
+La Mesa Police Department,2018,331,1411,520
+La Mesa Police Department,2019,297,979,403
+La Mesa Police Department,2020,241,522,206
+La Mesa Police Department,2021,86,361,96
+La Mesa Police Department,2022,229,404,203
+La Palma Police Department,2017,34,141,64
+La Palma Police Department,2018,52,154,79
+La Palma Police Department,2019,50,130,78
+La Palma Police Department,2020,56,86,67
+La Palma Police Department,2021,30,105,98
+La Palma Police Department,2022,32,76,77
+La Verne Police Department,2017,118,500,358
+La Verne Police Department,2018,88,379,253
+La Verne Police Department,2019,52,178,179
+La Verne Police Department,2020,51,86,94
+La Verne Police Department,2021,53,74,104
+La Verne Police Department,2022,43,50,97
+Lake County Sheriff's Department,2017,303,784,151
+Lake County Sheriff's Department,2018,290,583,148
+Lake County Sheriff's Department,2019,254,488,113
+Lake County Sheriff's Department,2020,216,328,87
+Lake County Sheriff's Department,2021,30,57,7
+Lake County Sheriff's Department,2022,135,215,111
+Lakeport Police Department,2017,46,196,77
+Lakeport Police Department,2018,66,241,65
+Lakeport Police Department,2019,57,165,55
+Lakeport Police Department,2020,44,93,19
+Lakeport Police Department,2021,4,53,10
+Lakeport Police Department,2022,39,154,32
+Lassen County Sheriff's Department,2017,91,49,56
+Lassen County Sheriff's Department,2018,91,66,62
+Lassen County Sheriff's Department,2019,104,88,47
+Lassen County Sheriff's Department,2020,75,75,55
+Lassen County Sheriff's Department,2021,10,5,5
+Lassen County Sheriff's Department,2022,46,44,66
+Lemoore Police Department,2017,216,368,113
+Lemoore Police Department,2018,188,373,116
+Lemoore Police Department,2019,212,300,69
+Lemoore Police Department,2020,159,429,87
+Lemoore Police Department,2021,72,128,37
+Lemoore Police Department,2022,175,310,131
+Lincoln Police Department,2017,49,209,50
+Lincoln Police Department,2018,50,326,66
+Lincoln Police Department,2019,45,278,90
+Lincoln Police Department,2020,58,435,79
+Lincoln Police Department,2021,5,17,6
+Lincoln Police Department,2022,71,256,98
+Livingston Police Department,2017,86,188,52
+Livingston Police Department,2018,68,146,62
+Livingston Police Department,2019,71,132,53
+Livingston Police Department,2020,71,96,42
+Livingston Police Department,2021,22,30,21
+Livingston Police Department,2022,69,100,77
+Los Altos Police Department,2017,31,50,34
+Los Altos Police Department,2018,31,82,39
+Los Altos Police Department,2019,29,68,38
+Los Altos Police Department,2020,20,41,31
+Los Altos Police Department,2021,0,1,4
+Los Altos Police Department,2022,17,11,28
+Los Gatos Police Department,2017,69,277,89
+Los Gatos Police Department,2018,96,331,109
+Los Gatos Police Department,2019,81,284,87
+Los Gatos Police Department,2020,49,127,59
+Los Gatos Police Department,2021,10,16,16
+Los Gatos Police Department,2022,63,95,90
+Madera County Sheriff's Department,2017,235,231,156
+Madera County Sheriff's Department,2018,220,244,157
+Madera County Sheriff's Department,2019,238,277,170
+Madera County Sheriff's Department,2020,247,239,132
+Madera County Sheriff's Department,2021,285,244,150
+Madera County Sheriff's Department,2022,272,239,168
+Madera Police Department,2017,557,1143,344
+Madera Police Department,2018,684,1449,381
+Madera Police Department,2019,615,1366,354
+Madera Police Department,2020,514,1120,301
+Madera Police Department,2021,366,778,327
+Madera Police Department,2022,372,740,332
+Marina Police Department,2017,122,243,113
+Marina Police Department,2018,122,257,67
+Marina Police Department,2019,128,190,81
+Marina Police Department,2020,136,330,70
+Marina Police Department,2021,51,185,64
+Marina Police Department,2022,98,265,102
+Mariposa County Sheriff's Department,2017,90,186,50
+Mariposa County Sheriff's Department,2018,76,228,50
+Mariposa County Sheriff's Department,2019,128,311,64
+Mariposa County Sheriff's Department,2020,84,244,54
+Mariposa County Sheriff's Department,2021,44,77,29
+Mariposa County Sheriff's Department,2022,59,146,25
+Modoc County Sheriff's Department,2017,53,40,11
+Modoc County Sheriff's Department,2018,55,55,22
+Modoc County Sheriff's Department,2019,38,37,32
+Modoc County Sheriff's Department,2020,33,13,20
+Modoc County Sheriff's Department,2021,2,0,1
+Modoc County Sheriff's Department,2022,21,13,12
+Monrovia Police Department,2017,125,337,240
+Monrovia Police Department,2018,123,457,252
+Monrovia Police Department,2019,112,432,195
+Monrovia Police Department,2020,91,192,162
+Monrovia Police Department,2021,66,211,158
+Monrovia Police Department,2022,69,393,188
+Montclair Police Department,2017,255,495,445
+Montclair Police Department,2018,293,583,449
+Montclair Police Department,2019,239,568,427
+Montclair Police Department,2020,230,520,358
+Montclair Police Department,2021,93,181,139
+Montclair Police Department,2022,158,373,407
+Monte Sereno,2017,4,5,2
+Monte Sereno,2018,2,8,4
+Monte Sereno,2019,2,5,2
+Monte Sereno,2020,2,3,2
+Monte Sereno,2021,1,0,0
+Monte Sereno,2022,6,3,4
+Monterey County Sheriff's Department,2017,269,295,212
+Monterey County Sheriff's Department,2018,315,400,274
+Monterey County Sheriff's Department,2019,330,540,234
+Monterey County Sheriff's Department,2020,311,398,218
+Monterey County Sheriff's Department,2021,186,222,142
+Monterey County Sheriff's Department,2022,220,388,164
+Moraga Police Department,2017,9,19,17
+Moraga Police Department,2018,13,43,13
+Moraga Police Department,2019,7,25,24
+Moraga Police Department,2020,9,23,26
+Moraga Police Department,2021,8,29,23
+Moraga Police Department,2022,6,12,25
+Morgan Hill Police Department,2017,209,660,270
+Morgan Hill Police Department,2018,205,477,231
+Morgan Hill Police Department,2019,209,500,191
+Morgan Hill Police Department,2020,170,409,194
+Morgan Hill Police Department,2021,62,169,76
+Morgan Hill Police Department,2022,86,286,170
+Mountain View Police Department,2017,301,885,266
+Mountain View Police Department,2018,285,707,251
+Mountain View Police Department,2019,277,710,246
+Mountain View Police Department,2020,238,469,223
+Mountain View Police Department,2021,8,79,16
+Mountain View Police Department,2022,168,456,157
+Murrieta Police Department,2017,269,1228,309
+Murrieta Police Department,2018,240,1023,284
+Murrieta Police Department,2019,299,991,264
+Murrieta Police Department,2020,269,937,217
+Murrieta Police Department,2021,213,357,181
+Murrieta Police Department,2022,272,406,231
+National City Police Department,2017,321,946,479
+National City Police Department,2018,284,928,369
+National City Police Department,2019,342,781,464
+National City Police Department,2020,342,696,296
+National City Police Department,2021,124,527,150
+National City Police Department,2022,267,451,252
+Newark Police Department,2017,144,405,234
+Newark Police Department,2018,138,389,136
+Newark Police Department,2019,130,340,133
+Newark Police Department,2020,96,291,168
+Newark Police Department,2021,21,35,30
+Newark Police Department,2022,122,142,115
+Novato Police Department,2017,242,594,187
+Novato Police Department,2018,262,845,148
+Novato Police Department,2019,203,548,116
+Novato Police Department,2020,209,405,97
+Novato Police Department,2021,9,11,12
+Novato Police Department,2022,160,238,148
+Oceanside Police Department,2017,820,2165,662
+Oceanside Police Department,2018,815,2832,713
+Oceanside Police Department,2019,910,2806,939
+Oceanside Police Department,2020,856,2919,708
+Oceanside Police Department,2021,357,1476,272
+Oceanside Police Department,2022,740,1570,469
+Orange County Sheriff's Department,2017,388,1166,440
+Orange County Sheriff's Department,2018,385,1794,503
+Orange County Sheriff's Department,2019,379,2071,457
+Orange County Sheriff's Department,2020,274,1384,351
+Orange County Sheriff's Department,2021,78,150,117
+Orange County Sheriff's Department,2022,217,374,300
+Oroville Police Department,2017,236,497,475
+Oroville Police Department,2018,251,665,398
+Oroville Police Department,2019,211,549,275
+Oroville Police Department,2020,191,504,193
+Oroville Police Department,2021,32,93,39
+Oroville Police Department,2022,150,343,152
+Pacific Grove Police Department,2017,32,104,32
+Pacific Grove Police Department,2018,46,86,27
+Pacific Grove Police Department,2019,29,72,23
+Pacific Grove Police Department,2020,37,79,9
+Pacific Grove Police Department,2021,19,45,23
+Pacific Grove Police Department,2022,16,59,18
+Palo Alto Police Department,2017,172,652,246
+Palo Alto Police Department,2018,145,772,229
+Palo Alto Police Department,2019,153,636,172
+Palo Alto Police Department,2020,103,401,189
+Palo Alto Police Department,2021,7,25,14
+Palo Alto Police Department,2022,111,209,287
+Palos Verdes Estates Police Department,2017,14,155,94
+Palos Verdes Estates Police Department,2018,11,80,33
+Palos Verdes Estates Police Department,2019,12,111,52
+Palos Verdes Estates Police Department,2020,11,72,42
+Palos Verdes Estates Police Department,2021,12,55,41
+Palos Verdes Estates Police Department,2022,13,95,48
+Placentia Police Department,2017,130,461,147
+Placentia Police Department,2018,175,383,103
+Placentia Police Department,2019,185,328,108
+Placentia Police Department,2020,177,330,150
+Placentia Police Department,2021,163,307,142
+Placentia Police Department,2022,122,254,172
+Placerville Police Department,2017,76,316,84
+Placerville Police Department,2018,89,319,64
+Placerville Police Department,2019,79,313,65
+Placerville Police Department,2020,77,281,64
+Placerville Police Department,2021,44,217,55
+Placerville Police Department,2022,80,299,84
+Porterville Police Department,2017,569,1046,578
+Porterville Police Department,2018,509,1114,582
+Porterville Police Department,2019,573,1314,550
+Porterville Police Department,2020,531,1494,418
+Porterville Police Department,2021,370,1142,343
+Porterville Police Department,2022,425,1021,403
+Red Bluff Police Department,2017,221,482,324
+Red Bluff Police Department,2018,273,452,287
+Red Bluff Police Department,2019,250,396,243
+Red Bluff Police Department,2020,187,319,241
+Red Bluff Police Department,2021,84,227,118
+Red Bluff Police Department,2022,120,354,201
+Redlands Police Department,2017,290,1059,432
+Redlands Police Department,2018,401,1100,348
+Redlands Police Department,2019,363,1246,360
+Redlands Police Department,2020,307,890,299
+Redlands Police Department,2021,213,605,214
+Redlands Police Department,2022,255,691,281
+Richmond Police Department,2017,422,396,339
+Richmond Police Department,2018,534,419,438
+Richmond Police Department,2019,620,504,514
+Richmond Police Department,2020,563,298,435
+Richmond Police Department,2021,437,266,420
+Richmond Police Department,2022,354,182,303
+Ridgecrest Police Department,2017,315,657,237
+Ridgecrest Police Department,2018,335,580,224
+Ridgecrest Police Department,2019,260,573,166
+Ridgecrest Police Department,2020,322,552,183
+Ridgecrest Police Department,2021,14,13,7
+Ridgecrest Police Department,2022,175,238,193
+Rio Dell Police Department,2017,59,89,26
+Rio Dell Police Department,2018,31,71,12
+Rio Dell Police Department,2019,32,82,22
+Rio Dell Police Department,2020,34,117,23
+Rio Dell Police Department,2021,6,6,1
+Rio Dell Police Department,2022,33,63,29
+Rocklin Police Department,2017,106,334,183
+Rocklin Police Department,2018,104,417,151
+Rocklin Police Department,2019,109,397,148
+Rocklin Police Department,2020,108,363,163
+Rocklin Police Department,2021,10,30,12
+Rocklin Police Department,2022,101,279,160
+San Benito County Sheriff's Department,2017,74,169,47
+San Benito County Sheriff's Department,2018,80,108,35
+San Benito County Sheriff's Department,2019,67,151,34
+San Benito County Sheriff's Department,2020,72,90,34
+San Benito County Sheriff's Department,2021,68,119,30
+San Benito County Sheriff's Department,2022,73,144,60
+San Diego County Sheriff's Department,2017,2336,4213,2198
+San Diego County Sheriff's Department,2018,2289,3914,2039
+San Diego County Sheriff's Department,2019,2394,3880,2146
+San Diego County Sheriff's Department,2020,2271,3489,1614
+San Diego County Sheriff's Department,2021,2636,4844,2318
+San Diego County Sheriff's Department,2022,2214,2997,1891
+San Diego Harbor,2017,161,659,210
+San Diego Harbor,2018,112,500,118
+San Diego Harbor,2019,85,302,69
+San Diego Harbor,2020,79,193,74
+San Diego Harbor,2021,80,331,173
+San Diego Harbor,2022,144,219,245
+San Diego Police Department,2017,6111,11260,4164
+San Diego Police Department,2018,5749,11618,4016
+San Diego Police Department,2019,5448,13441,4107
+San Diego Police Department,2020,4785,12044,3831
+San Diego Police Department,2021,1643,6520,1987
+San Diego Police Department,2022,4115,6633,3276
+San Jose State University Police Department,2017,66,281,109
+San Jose State University Police Department,2018,49,197,91
+San Jose State University Police Department,2019,60,267,99
+San Jose State University Police Department,2020,35,239,81
+San Jose State University Police Department,2021,2,2,10
+San Jose State University Police Department,2022,27,44,66
+San Mateo County Sheriff's Department,2017,300,1547,466
+San Mateo County Sheriff's Department,2018,330,1578,380
+San Mateo County Sheriff's Department,2019,372,1376,358
+San Mateo County Sheriff's Department,2020,325,750,338
+San Mateo County Sheriff's Department,2021,97,243,117
+San Mateo County Sheriff's Department,2022,263,575,354
+San Rafael Police Department,2017,402,1134,357
+San Rafael Police Department,2018,421,1088,298
+San Rafael Police Department,2019,418,982,273
+San Rafael Police Department,2020,350,828,280
+San Rafael Police Department,2021,23,76,26
+San Rafael Police Department,2022,337,730,293
+Sand City Police Department,2017,8,151,77
+Sand City Police Department,2018,14,137,52
+Sand City Police Department,2019,6,178,38
+Sand City Police Department,2020,15,66,30
+Sand City Police Department,2021,5,59,32
+Sand City Police Department,2022,5,61,38
+Santa Clara Police Department,2017,440,1317,493
+Santa Clara Police Department,2018,467,1258,450
+Santa Clara Police Department,2019,477,1285,454
+Santa Clara Police Department,2020,399,727,363
+Santa Clara Police Department,2021,132,155,148
+Santa Clara Police Department,2022,389,513,625
+Santa Cruz County Sheriff's Department,2017,634,1068,523
+Santa Cruz County Sheriff's Department,2018,679,918,548
+Santa Cruz County Sheriff's Department,2019,736,890,443
+Santa Cruz County Sheriff's Department,2020,619,830,407
+Santa Cruz County Sheriff's Department,2021,102,188,52
+Santa Cruz County Sheriff's Department,2022,481,946,316
+Santa Maria Police Department,2017,768,1194,425
+Santa Maria Police Department,2018,663,1079,378
+Santa Maria Police Department,2019,424,789,323
+Santa Maria Police Department,2020,555,993,331
+Santa Maria Police Department,2021,468,679,364
+Santa Maria Police Department,2022,574,788,496
+Santa Paula Police Department,2017,187,331,107
+Santa Paula Police Department,2018,197,320,153
+Santa Paula Police Department,2019,229,491,126
+Santa Paula Police Department,2020,234,447,141
+Santa Paula Police Department,2021,125,246,107
+Santa Paula Police Department,2022,167,146,125
+Scotts Valley Police Department,2017,34,231,63
+Scotts Valley Police Department,2018,48,322,55
+Scotts Valley Police Department,2019,40,200,57
+Scotts Valley Police Department,2020,29,155,34
+Scotts Valley Police Department,2021,6,18,6
+Scotts Valley Police Department,2022,40,158,49
+Seaside Police Department,2017,125,414,110
+Seaside Police Department,2018,157,401,78
+Seaside Police Department,2019,116,265,81
+Seaside Police Department,2020,131,217,83
+Seaside Police Department,2021,61,117,56
+Seaside Police Department,2022,131,265,104
+Soledad Police Department,2017,128,168,63
+Soledad Police Department,2018,124,150,73
+Soledad Police Department,2019,109,104,62
+Soledad Police Department,2020,100,128,57
+Soledad Police Department,2021,50,106,27
+Soledad Police Department,2022,57,126,62
+Stockton Police Department,2017,2055,1859,1884
+Stockton Police Department,2018,2087,1735,1750
+Stockton Police Department,2019,2227,1328,1765
+Stockton Police Department,2020,2133,1022,1582
+Stockton Police Department,2021,1202,1043,1272
+Stockton Police Department,2022,1280,997,1565
+Sunnyvale Department of Public Safety,2017,447,1143,501
+Sunnyvale Department of Public Safety,2018,432,914,419
+Sunnyvale Department of Public Safety,2019,432,966,411
+Sunnyvale Department of Public Safety,2020,470,748,355
+Sunnyvale Department of Public Safety,2021,137,217,109
+Sunnyvale Department of Public Safety,2022,425,546,435
+Susanville Police Department,2017,86,118,55
+Susanville Police Department,2018,82,116,58
+Susanville Police Department,2019,75,104,62
+Susanville Police Department,2020,70,105,62
+Susanville Police Department,2021,5,5,8
+Susanville Police Department,2022,46,73,43
+Tehama County Sheriff's Department,2017,129,240,82
+Tehama County Sheriff's Department,2018,165,208,88
+Tehama County Sheriff's Department,2019,138,210,104
+Tehama County Sheriff's Department,2020,127,130,43
+Tehama County Sheriff's Department,2021,99,119,62
+Tehama County Sheriff's Department,2022,103,128,82
+Torrance Police Department,2017,260,897,838
+Torrance Police Department,2018,306,925,741
+Torrance Police Department,2019,310,875,802
+Torrance Police Department,2020,281,689,696
+Torrance Police Department,2021,8,36,46
+Torrance Police Department,2022,253,539,565
+Tracy Police Department,2017,410,684,426
+Tracy Police Department,2018,406,614,441
+Tracy Police Department,2019,359,541,259
+Tracy Police Department,2020,271,276,153
+Tracy Police Department,2021,177,301,149
+Tracy Police Department,2022,224,407,226
+Tulare Police Department,2017,803,1153,609
+Tulare Police Department,2018,729,1106,570
+Tulare Police Department,2019,685,1094,603
+Tulare Police Department,2020,628,834,449
+Tulare Police Department,2021,407,476,270
+Tulare Police Department,2022,435,411,259
+Tustin Police Department,2017,368,922,452
+Tustin Police Department,2018,377,880,470
+Tustin Police Department,2019,371,1027,534
+Tustin Police Department,2020,304,1047,533
+Tustin Police Department,2021,111,392,217
+Tustin Police Department,2022,247,689,455
+UC Davis Police Department,2017,14,66,22
+UC Davis Police Department,2018,17,27,13
+UC Davis Police Department,2019,9,34,25
+UC Davis Police Department,2020,8,13,7
+UC Davis Police Department,2021,1,1,0
+UC Davis Police Department,2022,5,27,20
+UC San Francisco Police Department,2017,44,81,58
+UC San Francisco Police Department,2018,49,33,54
+UC San Francisco Police Department,2019,53,44,52
+UC San Francisco Police Department,2020,32,12,43
+UC San Francisco Police Department,2021,5,1,7
+UC San Francisco Police Department,2022,42,8,38
+UC Santa Barbara Police Department,2017,36,421,37
+UC Santa Barbara Police Department,2018,36,330,44
+UC Santa Barbara Police Department,2019,36,251,43
+UC Santa Barbara Police Department,2020,11,69,24
+UC Santa Barbara Police Department,2021,5,17,13
+UC Santa Barbara Police Department,2022,5,28,12
+UC Santa Cruz Police Department,2017,11,65,26
+UC Santa Cruz Police Department,2018,16,112,20
+UC Santa Cruz Police Department,2019,10,68,20
+UC Santa Cruz Police Department,2020,5,34,9
+UC Santa Cruz Police Department,2021,6,3,3
+UC Santa Cruz Police Department,2022,11,4,12
+Upland Police Department,2017,319,1339,529
+Upland Police Department,2018,345,1498,570
+Upland Police Department,2019,350,1130,483
+Upland Police Department,2020,371,560,331
+Upland Police Department,2021,125,192,131
+Upland Police Department,2022,332,608,354
+Vernon Police Department,2017,37,178,102
+Vernon Police Department,2018,45,154,104
+Vernon Police Department,2019,30,192,98
+Vernon Police Department,2020,34,94,144
+Vernon Police Department,2021,6,23,42
+Vernon Police Department,2022,27,69,117
+West Covina Police Department,2017,286,816,962
+West Covina Police Department,2018,304,821,713
+West Covina Police Department,2019,270,628,601
+West Covina Police Department,2020,210,338,354
+West Covina Police Department,2021,97,165,138
+West Covina Police Department,2022,76,243,169
+Williams Police Department,2017,26,47,12
+Williams Police Department,2018,38,53,14
+Williams Police Department,2019,33,51,8
+Williams Police Department,2020,23,49,14
+Williams Police Department,2021,4,21,4
+Williams Police Department,2022,17,49,25
+Woodland Police Department,2017,320,627,247
+Woodland Police Department,2018,356,628,303
+Woodland Police Department,2019,320,637,280
+Woodland Police Department,2020,285,425,241
+Woodland Police Department,2021,66,114,75
+Woodland Police Department,2022,216,429,220
+Yuba City Police Department,2017,542,1051,723
+Yuba City Police Department,2018,483,1200,637
+Yuba City Police Department,2019,506,1267,703
+Yuba City Police Department,2020,421,727,564
+Yuba City Police Department,2021,20,59,53
+Yuba City Police Department,2022,360,813,436
